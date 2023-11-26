@@ -20,7 +20,6 @@ I'm **Gregory Ivo**, a Software Engineer with a passion for building things that
 - Technologies: Java-OSGi, Unity, NodeJS, React
 
 ## Fun Facts
-- Founder of Bad Cactus Studios 🌵🎮 - Where we turn code into games and dreams into reality.
 - Self-hosted nerd. Because who needs sleep when you have enterprise servers in your bedroom? 💤
 
 ## Connect with Me
