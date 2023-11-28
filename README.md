@@ -25,6 +25,6 @@ I'm **Gregory Ivo**, a Software Engineer with a passion for building things that
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-%40GregoryIvo-black?style=for-the-badge&logo=github)](https://github.com/GregoryIvo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gregoryivo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gregoryivo/)
-[![Twitter](https://img.shields.io/badge/Twitter-%40GregoryIvo-blue?style=for-the-badge&logo=twitter)](https://twitter.com/GregoryIvo)
+[![Twitter](https://img.shields.io/badge/Twitter-%40GregoryIvo-blue?style=for-the-badge&logo=twitter)](https://twitter.com/gregory_ivo)
 
 let's build something extraordinary together! 🚀✨
